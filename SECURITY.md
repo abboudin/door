@@ -1,4 +1,4 @@
-# Security Policy
+# Security PolicyThere are many cases of stealing the balances of Pi Browser wallets by sending links within them through which the passwords for the wallet are learned.   Please put an end to such harmful practices for the Pi Network community, thank you
 
 ## Supported Versions
 
